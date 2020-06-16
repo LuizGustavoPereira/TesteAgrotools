@@ -1,0 +1,13 @@
+C:\Users\bruna\OneDrive\Documentos\TesteAgrotools\ProblemVagaDev\bin\Debug\netcoreapp3.1\ProblemVagaDev.exe
+C:\Users\bruna\OneDrive\Documentos\TesteAgrotools\ProblemVagaDev\bin\Debug\netcoreapp3.1\ProblemVagaDev.deps.json
+C:\Users\bruna\OneDrive\Documentos\TesteAgrotools\ProblemVagaDev\bin\Debug\netcoreapp3.1\ProblemVagaDev.runtimeconfig.json
+C:\Users\bruna\OneDrive\Documentos\TesteAgrotools\ProblemVagaDev\bin\Debug\netcoreapp3.1\ProblemVagaDev.runtimeconfig.dev.json
+C:\Users\bruna\OneDrive\Documentos\TesteAgrotools\ProblemVagaDev\bin\Debug\netcoreapp3.1\ProblemVagaDev.dll
+C:\Users\bruna\OneDrive\Documentos\TesteAgrotools\ProblemVagaDev\bin\Debug\netcoreapp3.1\ProblemVagaDev.pdb
+C:\Users\bruna\OneDrive\Documentos\TesteAgrotools\ProblemVagaDev\obj\Debug\netcoreapp3.1\ProblemVagaDev.csprojAssemblyReference.cache
+C:\Users\bruna\OneDrive\Documentos\TesteAgrotools\ProblemVagaDev\obj\Debug\netcoreapp3.1\ProblemVagaDev.AssemblyInfoInputs.cache
+C:\Users\bruna\OneDrive\Documentos\TesteAgrotools\ProblemVagaDev\obj\Debug\netcoreapp3.1\ProblemVagaDev.AssemblyInfo.cs
+C:\Users\bruna\OneDrive\Documentos\TesteAgrotools\ProblemVagaDev\obj\Debug\netcoreapp3.1\ProblemVagaDev.csproj.CoreCompileInputs.cache
+C:\Users\bruna\OneDrive\Documentos\TesteAgrotools\ProblemVagaDev\obj\Debug\netcoreapp3.1\ProblemVagaDev.dll
+C:\Users\bruna\OneDrive\Documentos\TesteAgrotools\ProblemVagaDev\obj\Debug\netcoreapp3.1\ProblemVagaDev.pdb
+C:\Users\bruna\OneDrive\Documentos\TesteAgrotools\ProblemVagaDev\obj\Debug\netcoreapp3.1\ProblemVagaDev.genruntimeconfig.cache
